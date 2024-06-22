@@ -11,8 +11,8 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: 18.19.32
-    version: 18.19.32
+    specifier: 18.19.39
+    version: 18.19.39
   typescript:
     specifier: 5.4.5
     version: 5.4.5
@@ -45,8 +45,8 @@ packages:
     dev: false
     optional: true
 
-  /@types/node@18.19.32:
-    resolution: {integrity: sha512-2bkg93YBSDKk8DLmmHnmj/Rwr18TLx7/n+I23BigFwgexUJoMHZOd8X1OFxuF/W3NN0S2W2E5sVabI5CPinNvA==}
+  /@types/node@18.19.39:
+    resolution: {integrity: sha512-nPwTRDKUctxw3di5b4TfT3I0sWDiWoPQCZjXhvdkINntwr8lcoVCKsTgnXeRubKIlfnV+eN/HYk6Jb40tbcEAQ==}
     dependencies:
       undici-types: 5.26.5
     dev: true
