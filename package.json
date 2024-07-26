@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tar": "7.1.0"
+    "tar": "7.4.3"
   },
   "devDependencies": {
     "@types/node": "18.19.32",
