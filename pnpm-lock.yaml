@@ -14,8 +14,8 @@ devDependencies:
     specifier: 18.19.32
     version: 18.19.32
   typescript:
-    specifier: 5.4.5
-    version: 5.4.5
+    specifier: 5.6.3
+    version: 5.6.3
 
 packages:
 
@@ -271,8 +271,8 @@ packages:
       yallist: 5.0.0
     dev: false
 
-  /typescript@5.4.5:
-    resolution: {integrity: sha512-vcI4UpRgg81oIRUFwR0WSIHKt11nJ7SAVlYNIu+QpqeyXP+gpQJy/Z4+F0aGxSE4MqwjyXvW/TzgkLAx2AGHwQ==}
+  /typescript@5.6.3:
+    resolution: {integrity: sha512-hjcS1mhfuyi4WW8IWtjP7brDrG2cuDZukyrYrSauoXGNgx0S7zceP07adYkJycEr56BOUTNPzbInooiN3fn1qw==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: true
